@@ -13,7 +13,8 @@ Worked on SVM, Decision Tree, and Random Forest.
 On the report provided much of the initial writing for results, most of the introduction and parts of the conclusions.
 
 #### Omar
-Did proof reading.
+Worked on proof reading of report and colab file.
+Worked on some of the cited works of the report.
 
 ## Dataset
 Our dataset was found online from the following source: https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles
