@@ -8,13 +8,13 @@ Each member worked together to help complete this project working on individual 
 Worked on data preparation, Logistic Regression, and SVM Linear and RBF Comparisons. Methods for metrics and K-Folds validation. 
 On the report provided proof reading, modifications, and reworked analysis of models.
 
-#### Louis
+#### Louis Farmer
 Worked on SVM, Decision Tree, and Random Forest.
 On the report provided much of the initial writing for results, most of the introduction and parts of the conclusions.
 
-#### Omar
+#### Omar Marron
 Worked on proof reading of report and colab file.
-Worked on some of the cited works of the report.
+On the report provided some of the works cited.
 
 ## Dataset
 Our dataset was found online from the following source: https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles
